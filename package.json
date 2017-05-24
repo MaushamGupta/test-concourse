@@ -1,0 +1,19 @@
+{
+  "name": "test-concourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-nodejs.js",
+  "scripts": {
+    "test": "node test-nodejs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaushamGupta/test-concourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaushamGupta/test-concourse/issues"
+  },
+  "homepage": "https://github.com/MaushamGupta/test-concourse#readme"
+}
